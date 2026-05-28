@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanm65&label=Profile%20views&color=0e75b6&style=flat" alt="aryanm65" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanm65" alt="aryanm65" /></a> </p>
-
 - 🔭 I’m currently working on **Claimlens**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
