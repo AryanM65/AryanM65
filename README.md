@@ -31,10 +31,4 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanm65&theme=github_dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanm65&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanm65&layout=compact&theme=github_dark" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aryanm65&theme=github-dark)
